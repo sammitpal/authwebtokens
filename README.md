@@ -1,6 +1,8 @@
 # **AUTH WEB TOKEN (AWT) 🔐**
 A token that enables authentication.
 
+## **Installation**
+    npm i authwebtoken 
 ## ***More Information on AWT***
  
  * Login with payload data
